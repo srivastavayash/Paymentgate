@@ -1,9 +1,9 @@
 import React from 'react'
-import styles from './Constants/Style'
+import {Navbar} from './Componenets/Index'
 const App=()=> 
 (
     <div>
-
+     <Navbar/>
     </div>
 );
 export default App
